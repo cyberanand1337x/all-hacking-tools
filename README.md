@@ -78,8 +78,7 @@ termux-setup-storage
 apt install git
 
 #clone this repository
-git clone https://github.com/mishakorzik/AllHackingTools
-
+git clone https://github.com/cyberanand1337x/all-hacking-tools.git
 #cd to directory allhackingtools
 cd AllHackingTools
 
