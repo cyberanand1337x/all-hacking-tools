@@ -28,10 +28,8 @@ apt install git
 
 #clone this repository
 git clone https://github.com/cyberanand1337x/all-hacking-tools.git
-#cd all-hacking-tools
-cd AllHackingTools
-
-#Start script to install system
+cd all-hacking-tools
+chmod +X *
 bash Install.sh
 ```
 
