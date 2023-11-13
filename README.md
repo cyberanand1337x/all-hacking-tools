@@ -1,17 +1,14 @@
+![IMAGE](./assets/anand.gif)
 
 > AllHackingTools: is a system designed to automate the download process and install various tools for penetration testing.
 
 ---------------------
 
-
 #### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
-
-
 
 ---------
 ## Supported systems
 #### will download 5-20 minutes
-![IMAGE](./assets/anand.gif)
 
 **Here on these systems works AllHackingTools** <br>
 ## Tool tested on:
